@@ -1,0 +1,8 @@
+{
+  "name": "til",
+  "version": "1.0.0",
+  "description": "Today I Learned",
+  "repository": "https://github.com/mh61503891/til.git",
+  "author": "Masayuki Higashino <msyk@hgsn.info>",
+  "private": true
+}
